@@ -25,3 +25,8 @@ If permanently denied, users are redirected to system settings.
 
 ## Use Case
 This project is intended for learning and demonstration purposes, showing how AlarmManager works with notifications in modern Android versions.
+
+## Screenshots
+
+![Home Screen](https://github.com/AsrafSince2k18/ToDo-Notes/blob/a5a1417e5b2674fecf5a8e693935d261f0076c1e/images2.jpeg)
+
