@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="rational">Allow notifications so we can remind you about important notes and tasks when you need them.</string>
+    <string name="setting_open">Notifications are turned off. Enable them in settings to receive note reminders.</string>
+</resources>

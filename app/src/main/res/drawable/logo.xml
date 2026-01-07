@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Background rounded square -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M16,16h96a16,16 0 0 1 16,16v64a16,16 0 0 1 -16,16h-96a16,16 0 0 1 -16,-16v-64a16,16 0 0 1 16,-16z"/>
+
+    <!-- Notepad -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,32h48v64h-48z"/>
+    <!-- To-do lines -->
+    <path android:fillColor="#CBD5E1" android:pathData="M36,40h40v4h-40z"/>
+    <path android:fillColor="#CBD5E1" android:pathData="M36,50h40v4h-40z"/>
+    <path android:fillColor="#CBD5E1" android:pathData="M36,60h32v4h-32z"/>
+
+    <!-- Pencil -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M60,80l24,8l-8,24l-24,-8z"/>
+
+    <!-- Alarm clock circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M88,40a24,24 0 1 1 0,48a24,24 0 1 1 0,-48z"/>
+    <!-- Clock hands -->
+    <path android:fillColor="#1F2937" android:pathData="M88,64v-12h4v12z"/>
+    <path android:fillColor="#1F2937" android:pathData="M88,64h10v4h-10z"/>
+</vector>
