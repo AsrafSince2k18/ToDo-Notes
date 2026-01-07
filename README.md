@@ -29,4 +29,6 @@ This project is intended for learning and demonstration purposes, showing how Al
 ## Screenshots
 
 ![Home Screen](https://github.com/AsrafSince2k18/ToDo-Notes/blob/a5a1417e5b2674fecf5a8e693935d261f0076c1e/images2.jpeg)
+![Home Screen](https://github.com/AsrafSince2k18/ToDo-Notes/blob/088297b228f470df45d4df8f4d84c957f4c1ec63/images3.jpeg)
+
 
